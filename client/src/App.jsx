@@ -4,8 +4,8 @@ import Home from './pages/Home';
 import About from './pages/About';
 import Profile from './pages/Profile';
 import SignOut from './pages/SignOut';
-import SignUp from './pages/SignUp';
-import SignIn from './pages/SignIn';
+import SignUp from './pages/SignUp.jsx';
+import SignIn from './pages/SignIn.jsx';
 import Header from './components/Header';
 
 function App() {
